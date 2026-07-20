@@ -6,6 +6,10 @@ The models have been pre-trained on the full kinetics dataset and serialized int
 
 ---
 
+## 🚀 Live Application
+
+- **Web App URL:** [https://bjvsaaxxmyxmvb9zxbhcpn.streamlit.app/](https://bjvsaaxxmyxmvb9zxbhcpn.streamlit.app/)
+
 ## Instructions
 
 ### 1. Install Packages
