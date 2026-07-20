@@ -1,5 +1,7 @@
 # Ether & Ester Combustion Kinetics Predictor
 
+🌐 **Live Deployed Application:** [https://bjvsaaxxmyxmvb9zxbhcpn.streamlit.app/](https://bjvsaaxxmyxmvb9zxbhcpn.streamlit.app/)
+
 This Streamlit application allows you to upload an Excel or CSV file containing ether and ester reaction data and perform rate constant ($log_{10}(k)$) predictions using the trained models.
 
 The models have been pre-trained on the full kinetics dataset and serialized into the `saved_models/` directory, so the application runs immediately without retraining.
