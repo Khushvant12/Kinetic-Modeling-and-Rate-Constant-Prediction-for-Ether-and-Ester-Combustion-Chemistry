@@ -1,0 +1,13 @@
+Model: Linear Regression
+
+Fold-wise Metrics:
+  Fold 1 -> R2: 0.0154, RMSE: 2.4668, MAE: 1.6733
+  Fold 2 -> R2: 0.5056, RMSE: 4.3373, MAE: 2.9907
+  Fold 3 -> R2: -3.5433, RMSE: 1.1337, MAE: 0.9105
+  Fold 4 -> R2: 0.7426, RMSE: 3.2195, MAE: 1.9049
+  Fold 5 -> R2: 0.9070, RMSE: 1.6790, MAE: 1.2894
+
+Overall Metrics (Out-of-Fold):
+R2: 0.694581
+RMSE: 2.799911
+MAE: 1.752071

@@ -1,0 +1,13 @@
+Model: XGBoost
+
+Fold-wise Metrics:
+  Fold 1 -> R2: 0.8766, RMSE: 0.8733, MAE: 0.5365
+  Fold 2 -> R2: 0.6816, RMSE: 3.4808, MAE: 2.1937
+  Fold 3 -> R2: 0.3855, RMSE: 0.4170, MAE: 0.2800
+  Fold 4 -> R2: 0.6343, RMSE: 3.8377, MAE: 2.1459
+  Fold 5 -> R2: 0.9737, RMSE: 0.8931, MAE: 0.5305
+
+Overall Metrics (Out-of-Fold):
+R2: 0.777647
+RMSE: 2.389012
+MAE: 1.135932

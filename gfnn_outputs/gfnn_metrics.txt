@@ -1,0 +1,15 @@
+Model: Graph Feedforward Neural Network (GFNN)
+
+Fold-wise Metrics:
+  Fold 1 -> R2: 0.7745, RMSE: 1.1807, MAE: 0.7828
+  Fold 2 -> R2: 0.8625, RMSE: 2.2877, MAE: 1.4812
+  Fold 3 -> R2: -0.4055, RMSE: 0.6306, MAE: 0.4776
+  Fold 4 -> R2: 0.9341, RMSE: 1.6287, MAE: 1.0478
+  Fold 5 -> R2: 0.9955, RMSE: 0.3674, MAE: 0.2612
+
+Overall Metrics (Out-of-Fold):
+R2: 0.924201
+RMSE: 1.394852
+MAE: 0.807197
+
+Training Time: 468.80 seconds

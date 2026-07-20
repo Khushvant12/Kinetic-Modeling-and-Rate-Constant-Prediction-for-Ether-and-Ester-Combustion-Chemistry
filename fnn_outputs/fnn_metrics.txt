@@ -1,0 +1,13 @@
+Model: Neural Network (FNN)
+
+Fold-wise Metrics:
+  Fold 1 -> R2: 0.7927, RMSE: 1.1318, MAE: 0.7372
+  Fold 2 -> R2: 0.3373, RMSE: 5.0217, MAE: 3.1246
+  Fold 3 -> R2: -113.6005, RMSE: 5.6941, MAE: 4.1928
+  Fold 4 -> R2: 0.4373, RMSE: 4.7607, MAE: 3.0963
+  Fold 5 -> R2: 0.6690, RMSE: 3.1681, MAE: 1.6711
+
+Overall Metrics (Out-of-Fold):
+R2: 0.301130
+RMSE: 4.235402
+MAE: 2.523346

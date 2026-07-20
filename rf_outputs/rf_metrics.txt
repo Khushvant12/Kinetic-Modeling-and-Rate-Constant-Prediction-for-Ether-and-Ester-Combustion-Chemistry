@@ -1,0 +1,13 @@
+Model: Random Forest
+
+Fold-wise Metrics:
+  Fold 1 -> R2: 0.8627, RMSE: 0.9212, MAE: 0.5644
+  Fold 2 -> R2: 0.6701, RMSE: 3.5431, MAE: 2.2026
+  Fold 3 -> R2: 0.0952, RMSE: 0.5059, MAE: 0.3605
+  Fold 4 -> R2: 0.7711, RMSE: 3.0366, MAE: 1.6101
+  Fold 5 -> R2: 0.9689, RMSE: 0.9707, MAE: 0.5306
+
+Overall Metrics (Out-of-Fold):
+R2: 0.815863
+RMSE: 2.174036
+MAE: 1.048885
